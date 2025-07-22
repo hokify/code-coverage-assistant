@@ -1,3 +1,5 @@
+> 🛑 Archived, not used anymore, see https://github.com/hokify/hokify/pull/11221
+
 # Code Coverage Assistant
 
 [![CI](https://github.com/peter-evans/create-pull-request/workflows/CI/badge.svg)](https://github.com/ScaCap/code-coverage-assistant/actions?query=workflow%3ACI)
